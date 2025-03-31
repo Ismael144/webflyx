@@ -1,2 +1,5 @@
-These are simple contents in here 
-Hello
+# Contents 
+
+* titles.md: The movie titles in the WebFlyx collection 
+* classics.csv: A comma-separated list of classic movies 
+* quotes: A directory of files memorable quotes from movies
